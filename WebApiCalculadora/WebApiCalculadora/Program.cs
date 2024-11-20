@@ -22,7 +22,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+app.UseCors("AllowAll");
+app.UseStaticFiles(); //archivos estáticos
+app.UseAuthorization();
 app.MapControllers(); // Habilitar los controladores
 app.Run();
 

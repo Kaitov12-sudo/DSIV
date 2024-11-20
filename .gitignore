@@ -1,6 +1,19 @@
-.vs/
+# Archivos y carpetas de compilación
 bin/
 obj/
+
+# Archivos de configuración de Visual Studio
+.vs/
 *.user
 *.suo
+
+# Archivos de sistema
 *.log
+*.tmp
+*.bak
+
+# Archivos de publicación
+*.zip
+
+# Otros
+Debug/
