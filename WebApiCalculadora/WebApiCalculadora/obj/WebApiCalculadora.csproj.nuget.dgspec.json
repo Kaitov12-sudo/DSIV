@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\WebApiCalculadora.csproj": {}
+    "C:\\Users\\RICARDO\\source\\repos\\ds4\\WebApiCalculadora\\WebApiCalculadora\\WebApiCalculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\WebApiCalculadora.csproj": {
+    "C:\\Users\\RICARDO\\source\\repos\\ds4\\WebApiCalculadora\\WebApiCalculadora\\WebApiCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\WebApiCalculadora.csproj",
+        "projectUniqueName": "C:\\Users\\RICARDO\\source\\repos\\ds4\\WebApiCalculadora\\WebApiCalculadora\\WebApiCalculadora.csproj",
         "projectName": "WebApiCalculadora",
-        "projectPath": "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\WebApiCalculadora.csproj",
+        "projectPath": "C:\\Users\\RICARDO\\source\\repos\\ds4\\WebApiCalculadora\\WebApiCalculadora\\WebApiCalculadora.csproj",
         "packagesPath": "C:\\Users\\RICARDO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\obj\\",
+        "outputPath": "C:\\Users\\RICARDO\\source\\repos\\ds4\\WebApiCalculadora\\WebApiCalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
