@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7349FE-2AAB-4D88-B2AF-307DADE53257}|WebApiCalculadora\\WebApiCalculadora.csproj|c:\\users\\ricardo\\source\\repos\\webapicalculadora\\webapicalculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7349FE-2AAB-4D88-B2AF-307DADE53257}|WebApiCalculadora\\WebApiCalculadora.csproj|solutionrelative:webapicalculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7349FE-2AAB-4D88-B2AF-307DADE53257}|WebApiCalculadora\\WebApiCalculadora.csproj|c:\\users\\ricardo\\source\\repos\\webapicalculadora\\webapicalculadora\\data\\c\u00E1lculosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7349FE-2AAB-4D88-B2AF-307DADE53257}|WebApiCalculadora\\WebApiCalculadora.csproj|solutionrelative:webapicalculadora\\data\\c\u00E1lculosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7349FE-2AAB-4D88-B2AF-307DADE53257}|WebApiCalculadora\\WebApiCalculadora.csproj|c:\\users\\ricardo\\source\\repos\\webapicalculadora\\webapicalculadora\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7349FE-2AAB-4D88-B2AF-307DADE53257}|WebApiCalculadora\\WebApiCalculadora.csproj|solutionrelative:webapicalculadora\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7349FE-2AAB-4D88-B2AF-307DADE53257}|WebApiCalculadora\\WebApiCalculadora.csproj|c:\\users\\ricardo\\source\\repos\\webapicalculadora\\webapicalculadora\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD7349FE-2AAB-4D88-B2AF-307DADE53257}|WebApiCalculadora\\WebApiCalculadora.csproj|solutionrelative:webapicalculadora\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7349FE-2AAB-4D88-B2AF-307DADE53257}|WebApiCalculadora\\WebApiCalculadora.csproj|c:\\users\\ricardo\\source\\repos\\webapicalculadora\\webapicalculadora\\models\\calculadora2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7349FE-2AAB-4D88-B2AF-307DADE53257}|WebApiCalculadora\\WebApiCalculadora.csproj|solutionrelative:webapicalculadora\\models\\calculadora2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiCalculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\Program.cs",
+              "RelativeToolTip": "WebApiCalculadora\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:48:16.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculadoraController.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\Controllers\\CalculadoraController.cs",
+              "RelativeDocumentMoniker": "WebApiCalculadora\\Controllers\\CalculadoraController.cs",
+              "ToolTip": "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\Controllers\\CalculadoraController.cs",
+              "RelativeToolTip": "WebApiCalculadora\\Controllers\\CalculadoraController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwDwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:47:47.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C\u00E1lculosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\Data\\C\u00E1lculosDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiCalculadora\\Data\\C\u00E1lculosDbContext.cs",
+              "ToolTip": "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\Data\\C\u00E1lculosDbContext.cs",
+              "RelativeToolTip": "WebApiCalculadora\\Data\\C\u00E1lculosDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:19:57.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculadora2.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\Models\\Calculadora2.cs",
+              "RelativeDocumentMoniker": "WebApiCalculadora\\Models\\Calculadora2.cs",
+              "ToolTip": "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\Models\\Calculadora2.cs",
+              "RelativeToolTip": "WebApiCalculadora\\Models\\Calculadora2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:19:23.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiCalculadora\\appsettings.json",
+              "ToolTip": "C:\\Users\\RICARDO\\source\\repos\\WebApiCalculadora\\WebApiCalculadora\\appsettings.json",
+              "RelativeToolTip": "WebApiCalculadora\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T04:03:23.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
