@@ -36,6 +36,7 @@ namespace WebApiCalculadora.Controllers
             if (ModelState.IsValid)
             {
                 _context.Calculadora2.Add(calculo);
+                
                 _context.SaveChanges();
                 return Ok(calculo);
             }
